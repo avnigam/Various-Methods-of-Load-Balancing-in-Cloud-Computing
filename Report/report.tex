@@ -1,0 +1,37 @@
+\documentclass[11pt,a4paper]{report}
+\usepackage[pdftex]{graphicx} %for embedding images
+\usepackage{url} %for proper url entries
+\usepackage{amsmath,amssymb}
+\usepackage[dvips, bookmarks, colorlinks=false, pdfborder={0 0 0}, pdftitle={Major Project Mid Term Report}, pdfauthor={Aviral Nigam, Snehal Chauhan, Varsha Murali}, pdfsubject={Cloud Computing}, pdfkeywords={Cloud Computing, Load Sharing}]{hyperref} %for creating links in the pdf version and other additional pdf attributes, no effect on the printed document
+\usepackage[final]{pdfpages} %for embedding another pdf, remove if not required
+\usepackage{algorithmic}
+\begin{document}
+\renewcommand\bibname{References} %Renames "Bibliography" to "References" on ref page
+
+%include other pages
+\input{./title.tex}
+\input{./certificate.tex}
+\input{./acknow.tex}
+\input{./abstract.tex}
+
+\pagenumbering{roman} %numbering before main content starts
+\tableofcontents
+%\listoffigures
+
+\newpage
+\pagenumbering{arabic} %reset numbering to normal for the main content
+
+\input{./objective.tex}
+\part{Phase - I}
+\input{./introduction1.tex}
+\input{./literaturesurvey1.tex}
+\input{./work-done1.tex}
+\input{./proposedwork1.tex}
+\part{Phase - II}
+\input{./introduction2.tex}
+\input{./literaturesurvey2.tex}
+\input{./work-done2.tex}
+\input{./proposedwork2.tex}
+\input{./ref.tex}
+
+\end{document}

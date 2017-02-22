@@ -1,0 +1,38 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Report Organization}{chapter.1}
+\BOOKMARK [-1][-]{part.1}{I Phase - I}{}
+\BOOKMARK [0][-]{chapter.2}{Introduction}{part.1}
+\BOOKMARK [1][-]{section.2.1}{Cloud Software as a Service \(SaaS\)}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Cloud Platform as a Service \(PaaS\)}{chapter.2}
+\BOOKMARK [1][-]{section.2.3}{Cloud Infrastructure as a Service \(IaaS\)}{chapter.2}
+\BOOKMARK [1][-]{section.2.4}{Problem Statement}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Literature Survey}{part.1}
+\BOOKMARK [0][-]{chapter.4}{Work Done}{part.1}
+\BOOKMARK [1][-]{section.4.1}{Theory}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.1.1}{Biased Random Sampling}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.2}{Honeybee Foraging}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.3}{Proposed Hybrid Algorithm}{section.4.1}
+\BOOKMARK [1][-]{section.4.2}{Implementation}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.2.1}{Biased Random Sampling}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.2}{Honeybee Foraging}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.3}{Proposed Hybrid Algorithm}{section.4.2}
+\BOOKMARK [1][-]{section.4.3}{Analysis}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.3.1}{Biased Random Sampling}{section.4.3}
+\BOOKMARK [2][-]{subsection.4.3.2}{Honeybee Foraging}{section.4.3}
+\BOOKMARK [2][-]{subsection.4.3.3}{Proposed Hybrid Algorithm}{section.4.3}
+\BOOKMARK [0][-]{chapter.5}{Proposed Work}{part.1}
+\BOOKMARK [-1][-]{part.2}{II Phase - II}{}
+\BOOKMARK [0][-]{chapter.6}{Introduction}{part.2}
+\BOOKMARK [1][-]{section.6.1}{Problem Statement}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Literature Survey}{part.2}
+\BOOKMARK [0][-]{chapter.8}{Work Done}{part.2}
+\BOOKMARK [1][-]{section.8.1}{Theory}{chapter.8}
+\BOOKMARK [2][-]{subsection.8.1.1}{Utility Function}{section.8.1}
+\BOOKMARK [2][-]{subsection.8.1.2}{Forecasting Methods}{section.8.1}
+\BOOKMARK [2][-]{subsection.8.1.3}{Forecast Design}{section.8.1}
+\BOOKMARK [2][-]{subsection.8.1.4}{Game Theoretic Design}{section.8.1}
+\BOOKMARK [2][-]{subsection.8.1.5}{ Standard Deviation }{section.8.1}
+\BOOKMARK [1][-]{section.8.2}{Implementation}{chapter.8}
+\BOOKMARK [1][-]{section.8.3}{Results and Analysis}{chapter.8}
+\BOOKMARK [0][-]{chapter.9}{Conclusion}{part.2}
+\BOOKMARK [0][-]{chapter.9}{References}{part.2}
